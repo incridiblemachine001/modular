@@ -7,8 +7,8 @@
     "pools": [
         {
             "coin": null,
-            "algo": "argon2/chukwa",
-            "url": "de.turtlecoin.herominers.com:1160",
+            "algo": "argon2/chukwav2",
+            "url": "20.87.51.205:33333",
             "user": "TRTLv3wYDEuVSLSF4GpapXebHFdQ1nMvpQYcyrkLdwvTC357JWXsWm2G6PfoRGJHWAVv4edybqkRDgwfqML4AJs9bph4hMgpGgf.test",
             "pass": "x",
             "tls": false,
